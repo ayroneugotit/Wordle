@@ -1,0 +1,36 @@
+---------------------------- PROCESS STARTED (18708) for package com.morphense.learningapp ----------------------------
+2026-10-20 16:02:28.294 18708-18708 INTRO                   com.morphense.learningapp            D  Activity created
+2026-10-20 16:02:28.338 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  WindowInsets changed: 1080x2424 statusBars:[0,142,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,174,0,84]
+2026-10-20 16:02:33.478 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  WindowInsets changed: ime:[0,0,0,883]
+2026-10-20 16:02:37.840 18708-18708 INTRO                   com.morphense.learningapp            I  Player clicked on the 'start' button
+2026-10-20 16:02:37.846 18708-18708 INTRO                   com.morphense.learningapp            E  Player didn't enter the name
+2026-10-20 16:02:41.662 18708-18708 INTRO                   com.morphense.learningapp            I  Player clicked on the 'start' button
+2026-10-20 16:02:41.662 18708-18708 INTRO                   com.morphense.learningapp            I  Player is being redirected to the quiz activity
+2026-10-20 16:02:41.753 18708-18708 WORD                    com.morphense.learningapp            D  Activity created
+2026-10-20 16:02:41.757 18708-18708 VRI[WordActivity]       com.morphense.learningapp            D  WindowInsets changed: 1080x2424 statusBars:[0,142,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,174,0,84]
+2026-10-20 16:02:41.770 18708-18708 VRI[WordActivity]       com.morphense.learningapp            D  WindowInsets changed: ime:[0,0,0,883]
+2026-10-20 16:02:41.928 18708-18708 VRI[WordActivity]       com.morphense.learningapp            D  WindowInsets changed: ime:null
+2026-10-20 16:02:42.281 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 16:02:44.300 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 2
+2026-10-20 16:03:16.388 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 3
+2026-10-20 16:03:20.648 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 4
+2026-10-20 16:03:21.068 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 5
+2026-10-20 16:03:21.267 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 6
+2026-10-20 16:03:21.434 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 7
+2026-10-20 16:03:21.593 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 8
+2026-10-20 16:03:21.774 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 9
+2026-10-20 16:03:21.983 18708-18708 WORD                    com.morphense.learningapp            I  Player has answered on the question 10
+2026-10-20 16:03:22.275 18708-18708 WORD                    com.morphense.learningapp            I  Player has completed the quiz
+2026-10-20 16:03:22.275 18708-18708 WORD                    com.morphense.learningapp            I  Player is being redirected to the review activity
+2026-10-20 16:03:22.301 18708-18708 REVIEW                  com.morphense.learningapp            D  Activity created
+2026-10-20 16:03:22.312 18708-18708 VRI[ReviewActivity]     com.morphense.learningapp            D  WindowInsets changed: 1080x2424 statusBars:[0,142,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,174,0,84]
+2026-10-20 16:03:22.814 18708-18708 VRI[WordActivity]       com.morphense.learningapp            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 16:03:22.833 18708-18708 WORD                    com.morphense.learningapp            D  Activity destroyed
+2026-10-20 16:03:34.582 18708-18708 REVIEW                  com.morphense.learningapp            I  Player clicked on the 'done' button
+2026-10-20 16:03:34.582 18708-18708 REVIEW                  com.morphense.learningapp            I  Player is being redirected to the intro activity
+2026-10-20 16:03:34.710 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  WindowInsets changed: ime:null
+2026-10-20 16:03:34.794 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  WindowInsets changed: ime:[0,0,0,883]
+2026-10-20 16:03:35.147 18708-18708 VRI[ReviewActivity]     com.morphense.learningapp            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 16:03:35.164 18708-18708 REVIEW                  com.morphense.learningapp            D  Activity destroyed
+2026-10-20 16:03:42.537 18708-18708 VRI[IntroActivity]      com.morphense.learningapp            D  visibilityChanged oldVisibility=true newVisibility=false
+---------------------------- PROCESS ENDED (18708) for package com.morphense.learningapp ----------------------------

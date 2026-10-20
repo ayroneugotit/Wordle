@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/gap_md">
+
+    <TextView
+        style="@style/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tv_welcome" />
+
+    <TextView
+        style="@style/paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/gap_small"
+        android:gravity="center"
+        android:text="@string/tv_question" />
+
+    <EditText
+        android:id="@+id/etName"
+        style="@style/paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/gap_md"
+        android:autofillHints="name"
+        android:hint="@string/et_name"
+        android:inputType="textPersonName"
+        android:maxLines="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnStart"
+        style="@style/paragraph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/gap_md"
+        android:background="@drawable/shape_rounded_solid"
+        android:backgroundTint="@color/accent"
+        android:padding="@dimen/gap_small"
+        android:text="@string/btn_start"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+</LinearLayout>

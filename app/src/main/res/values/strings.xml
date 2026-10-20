@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wordle</string>
+
+    <string name="tv_correct">This is correct!</string>
+    <string name="tv_incorrect">This is incorrect!</string>
+    <string name="tv_welcome">Welcome to Wordle</string>
+    <string name="tv_question">What is your name?</string>
+
+    <string name="et_name">Your name</string>
+
+    <string name="btn_start">start</string>
+    <string name="btn_continue">continue</string>
+    <string name="btn_done">done</string>
+    <string name="btn_skip">skip</string>
+    <string name="error_name">Please enter your name</string>
+    <string name="tv_thanks_message">Thanks for playing, %1$s!</string>
+    <string name="tv_score_message">Your score: %1$d / %2$d</string>
+</resources>
